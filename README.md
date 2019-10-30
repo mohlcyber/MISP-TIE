@@ -54,7 +54,7 @@ Make sure to authorize the new created certificates in ePO to set McAfee TIE Rep
 
 Make sure that the FULL PATH to the config file is entered in line 21 (misp_tie.py).
 
-### Optional
+### Execution
 
 run the script 
 ```sh
