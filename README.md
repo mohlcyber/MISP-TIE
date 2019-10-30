@@ -2,7 +2,7 @@
 
 This Integration adds automated containment / response capabilities to the MISP platform with McAfee Threat Intelligence Exchange (TIE).
 
-Based on tagging a script will extract suspicious MD5 hashes from a threat event and will automatically set the external or enterprise reputation in the McAfee TIE database. This effectiley updates all McAfee managed Endpoints.
+Based on tagging a script will extract suspicious MD5 hashes from a threat event and will automatically set the external or enterprise reputation in the McAfee TIE database. This effectively updates all McAfee managed Endpoints.
 The MISP tag will get automatically removed after the successfull reputation update.
 
    <img width="802" alt="Screenshot 2019-10-30 at 18 06 08" src="https://user-images.githubusercontent.com/25227268/67881016-06148e80-fb40-11e9-9cad-54253e965e14.png">
