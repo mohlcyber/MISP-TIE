@@ -62,4 +62,4 @@ python3.8 /home/misp_tie/misp_tie.py
 ```
 
 ## Summary
-MISP contains global, community and locally produced intelligence that can be used to set McAfee TIE reputations (external or enterprise reputations).
+MISP contains global, community and local produced intelligence that can be used to set McAfee TIE reputations (external or enterprise reputations).
